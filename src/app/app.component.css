@@ -1,0 +1,19 @@
+.container {
+    padding-top:25px;
+}
+
+.loginBox {
+    border: 1px solid #cecece;
+    /* padding:5px; */
+}
+
+.loginBoxHeader {
+    padding: 15px 5px;
+    background-color: darkcyan;
+    color: #ffffff;
+    text-align: center;
+}
+
+.loginBoxContent {
+    padding: 15px;
+}
